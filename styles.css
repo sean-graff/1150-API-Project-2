@@ -1,0 +1,27 @@
+body{
+    height: 100vh;
+    background-color: slategray ;
+    border: 50px gray;
+    border-style: groove;
+    padding: auto;
+}
+
+
+#genGif{
+   margin-left: 43vw;
+   padding-right: 50px;
+}
+
+h1{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 200px;
+}
+
+#gifResults{
+    margin-left: 38vw;
+    padding-top: 100px;
+
+}
